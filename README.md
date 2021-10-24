@@ -8,9 +8,9 @@
 
 I'm a tech writer with 5 years of experience wanting to move into the tech sector/software documentation.
 
-Life interrupted my computer systems engineering study halfway through my junior year. Once I was able to return to school, too much time had passed for me to jump back in where I left off. A technical communication degree seemed a reasonable compromise given my situation and interests.
+Life interrupted my computer systems engineering study halfway through my junior year. Once I was able to return to school, too much time had passed for me to jump back in where I left off. A technical communication degree seemed a reasonable compromise given my long-term goals and previous education.
 
-After years of plugging away on MS Word and juggling a half-dozen Adobe CC apps, I'm taking the initiative to build the skills which will get me where I want to be.
+After years of plugging away on MS Word and juggling a half-dozen Adobe CC apps, I'm pursuing skills that spark my interests. 
 
 If you're open to allowing me to ply my trade (albeit possibly clumsily at first) on one of your projects, please do reach out.
 
