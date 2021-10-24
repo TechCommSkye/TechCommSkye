@@ -10,7 +10,7 @@ I'm a tech writer with 5 years of experience wanting to move into the tech secto
 
 Life interrupted my computer systems engineering study halfway through my junior year. Once I was able to return to school, too much time had passed for me to jump back in where I left off. A technical communication degree seemed a reasonable compromise given my situation and interests.
 
-After years of plugging away on MS Word and juggling a half-dozen Adobe CC apps, I'm taking the initiative to build the skills I'm interested in and pursue my goals.
+After years of plugging away on MS Word and juggling a half-dozen Adobe CC apps, I'm taking the initiative to build the skills which will get me where I want to be.
 
 If you're open to allowing me to ply my trade (albeit possibly clumsily at first) on one of your projects, please do reach out.
 
