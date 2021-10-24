@@ -16,6 +16,7 @@ If you're open to allowing me to ply my trade (albeit possibly clumsily at first
 
 ### 23 Oct 2021
 **Using My Coursework Files as Practice**
+
 _Although not required by the lessons I'm taking, I'm adding the files I create to GitHub via the command line. I'll also include Markdown when appropriate rather than creating documentation with Word, etc._
 
 
