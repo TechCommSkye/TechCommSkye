@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechCommSkye
 - 👀 I’m interested in docs like code
-- 🌱 I’m currently learning API documentation, JSON, XML and more!
+- 🌱 I’m currently learning API documentation, JSON, XML, and more!
 - 💞️ I’m looking to collaborate on anything that will expand my skillset
 - 📫 You can reach me via email at techcommskye@gmail.com
 
