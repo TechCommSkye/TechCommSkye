@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @TechCommSkye
-- 👀 I’m interested in docs like code
-- 🌱 I’m currently learning API documentation, JSON, XML, and more!
-- 💞️ I’m looking to collaborate on anything that will expand my skillset
+- 👋 Hello, I’m @TechCommSkye
+- 💻 I’m a freelance technical writer 
+- :atom: I spend most of my time creating docs w/Markdown, HTML, and CSS
+- :camera: My work also includes photography, photo editing, and graphics 
+- :godmode: DOOM is the greatest game of all time, so here's Doomguy
 - 📫 You can reach me via email at techcommskye@gmail.com
 
 
